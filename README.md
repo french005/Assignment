@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IT 126 – Module 3, Lesson 2
 ## Analysis
 
