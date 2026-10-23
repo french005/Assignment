@@ -21,7 +21,3 @@ It could be harder to find, edit, and delete tasks. The app could also become ha
 
 ### 7. How could separating the operations that save and retrieve tasks from the UI make the application easier to maintain?
 The UI handles displaying the tasks, while a separate repository handles saving and loading them. This makes the code easier to understsand and update.
-
-=======
-# Assignment
->>>>>>> d173ccb7fb6aefa0d0cc6ada1eeb18583fe25ce5
